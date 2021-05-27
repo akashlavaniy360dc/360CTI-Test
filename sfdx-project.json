@@ -1,0 +1,35 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app\\main",
+            "default": false,
+            "package": "Expenser App5",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        },
+        {
+            "path": "force-app\\main",
+            "package": "Expenser App6",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "Demo App",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "name": "2G Sample 2",
+    "namespace": "LVC",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "Expenser App5": "0Ho2v000000CaxNCAS",
+        "Expenser App6": "0Ho2v000000CaxSCAS",
+        "Demo App": "0Ho2v000000CaxXCAS",
+        "Demo App@0.1.0-1": "04t2v000007SnGgAAK"
+    }
+}
