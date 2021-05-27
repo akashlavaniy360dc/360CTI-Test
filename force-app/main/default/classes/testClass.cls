@@ -1,5 +1,5 @@
 public class testClass {
     public static void mainMethod(){
-        system.debug('managed package');
+        system.debug('managed package 2');
     }
 }         
